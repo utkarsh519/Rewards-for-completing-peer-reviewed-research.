@@ -10,6 +10,8 @@ The project incentivizes the completion of high-quality research and ensures tha
 
 ## Contract Address
 0x1b36245f3bb7278709Db6cf5F18163a7aa051495
+![image](https://github.com/user-attachments/assets/91e53bc4-0723-4803-ab41-5749e2e48ca2)
+
 
 ## Project Vision
 The vision of this project is to create a decentralized system where research efforts are rewarded transparently and securely using blockchain technology. This smart contract helps solve the issue of rewarding researchers and ensuring the fair distribution of rewards based on peer review results. It also promotes a more efficient and trustworthy research ecosystem.
